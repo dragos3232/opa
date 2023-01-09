@@ -1,0 +1,20 @@
+{
+  "prefix": "!",
+  "devsID": [
+    "dev team member discord ID here",
+    "other dev team member discord ID here",
+    "etc..."
+  ],
+  "permissions": 387136,
+
+  "privilegedIntents": false,
+
+  "partials": [],
+
+  "formatDateStyle": "dd/MM/yyyy HH:mm:ss",
+
+  "translation": {
+    "status": true,
+    "default": "en-US"
+  }
+}

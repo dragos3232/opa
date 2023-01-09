@@ -1,0 +1,26 @@
+source:
+  - src/**/**/*
+
+translation:
+  - src/languages/*
+
+commands:
+  - src/commands/**/*
+
+events:
+  - src/events/**/*
+
+examples:
+  - examples/**/*
+
+utils:
+  - src/utils/**/*
+
+extensions:
+  - src/extensions/*
+
+structures:
+  - src/structures/*
+
+dependencies:
+  - any: ["package.json", "package-lock.json"]
